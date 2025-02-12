@@ -1,7 +1,7 @@
 ---
+layout: "../layouts/PageLayout.astro"
+title: "Get involved"
 ---
-
-# Get involved page
 
 - Volunteer at the intuition to share your expertise
 - Share knowledge on the different topics

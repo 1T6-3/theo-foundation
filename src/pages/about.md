@@ -1,7 +1,7 @@
 ---
+layout: "../layouts/PageLayout.astro"
+title: "About us"
 ---
-
-# About us
 
 ## General objective
 

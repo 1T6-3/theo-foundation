@@ -1,7 +1,7 @@
 ---
+layout: "../layouts/PageLayout.astro"
+title: "Roadmap"
 ---
-
-# Roadmap
 
 1. Sensitization and awareness
    - Making, fitting and educating individuals to use modern technology to support their current situation.

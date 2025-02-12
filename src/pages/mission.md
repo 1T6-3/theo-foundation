@@ -1,7 +1,7 @@
 ---
+layout: "../layouts/PageLayout.astro"
+title: "Mission"
 ---
-
-# Mission
 
 The Theo Foundation was founded in 2019 driven with the passion to support people with Drugs abuse after effects, mental illnesses, those recovering from sexual violence and epileptic groups. Why? These are the least listened to voices in society today. The foundation is here to amplify theses voices and help ease the pain.
 
